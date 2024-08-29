@@ -6,5 +6,5 @@
 [![Join WhatsApp](https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KcCF9TWb9BM1R5ifLV03D5)
 
 
-This is a test to verify that the discord bot notifies about this push
+
 
