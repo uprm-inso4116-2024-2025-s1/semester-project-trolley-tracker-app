@@ -9,18 +9,18 @@
         "projectedGroupGrade": 100.0
       },
       "Milestone #2": {
-        "startDate": "2024-02-12",
-        "endDate": "2024-03-08",
+        "startDate": "2024-9-21",
+        "endDate": "2024-10-25",
         "projectedGroupGrade": 100.0
       },
       "Milestone #3": {
-        "startDate": "2024-03-11",
-        "endDate": "2024-04-05",
+        "startDate": "2024-10-26",
+        "endDate": "2024-11-27",
         "projectedGroupGrade": 100.0
       }
     },
     "lectureTopicTaskQuota": 4,
     "countOpenIssues": false,
-    "sprints": 3,
+    "sprints": 2,
     "minTasksPerSprint": 1
 }
