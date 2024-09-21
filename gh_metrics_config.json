@@ -20,7 +20,7 @@
       }
     },
     "lectureTopicTaskQuota": 4,
-    "countOpenIssues": true,
-    "sprints": 2,
+    "countOpenIssues": false,
+    "sprints": 1,
     "minTasksPerSprint": 1
 }
