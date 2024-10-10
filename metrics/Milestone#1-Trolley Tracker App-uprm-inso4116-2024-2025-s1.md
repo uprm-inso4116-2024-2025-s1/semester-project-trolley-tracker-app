@@ -54,7 +54,6 @@
 
 | Message |
 | ------- |
-| WARNING: [Issue #125](https://github.com/uprm-inso4116-2024-2025-s1/semester-project-trolley-tracker-app/issues/125) is not associated with a milestone. |
 | WARNING: JaseyAcevedo hasn't completed the minimum 1 task(s) required for sprint 2024/08/30-2024/09/09 |
 | WARNING: SebastianSaliva hasn't completed the minimum 1 task(s) required for sprint 2024/08/30-2024/09/09 |
 | WARNING: marcosarraiza hasn't completed the minimum 1 task(s) required for sprint 2024/08/30-2024/09/09 |
